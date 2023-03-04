@@ -16,4 +16,4 @@ echo 'src-git small8 https://github.com/kenzok8/small-package' >>feeds.conf.defa
 
 ### 修改主题文件
 rm -rf package/lean/luci-theme-argon
-git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/lean/luci-theme-argon
+#git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/lean/luci-theme-argon
